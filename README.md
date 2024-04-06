@@ -1,4 +1,6 @@
 PREDICTING STUDENT'S DROPOUT AND ACADEMIC SUCCESS
+
+
 A major indicator of likely hitches in the higher education system is attributed to the enormous 
  number of student dropouts in the early academic years.
  A careful analysis of the existing data set holds several demographic and socioeconomic factors
